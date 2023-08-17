@@ -52,7 +52,7 @@ const Firebase = () => {
         >
           <option value="All">All</option>
           <option value="electronics">Electronics</option>
-          <option value="men's clothing">Men's Clothing</option>
+          <option value="men's clothing">Men's Clothings</option>
           <option value="women's clothing">Women's Clothing</option>
           <option value="jewelery">jewelery</option>
           {/* <option value="grocery">grocery</option> */}
